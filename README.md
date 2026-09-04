@@ -1,5 +1,7 @@
 # omarchy-lumon-boot
 
+> Part of **[Omarchy · Lumon Industries](https://github.com/KaiCryan/omarchy-lumon)** — a whole-system _Severance_ theme for Omarchy. This repo is one piece; the hub links the rest.
+
 A Lumon Industries Plymouth boot splash for [Omarchy](https://omarchy.org) —
 the Lumon globe on the dark theme ground while the system starts, with a
 matching password prompt for encrypted disks.
