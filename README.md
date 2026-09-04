@@ -1,4 +1,10 @@
 # omarchy-lumon-boot
+<!-- lumon-voice:head -->
+```
+░▒▓█  L U M O N   I N D U S T R I E S  █▓▒░
+```
+> *The globe turns, and your day is permitted to begin.*
+<!-- /lumon-voice:head -->
 
 <!-- lumon-set:start -->
 > **Part of [Omarchy · Lumon Industries](https://github.com/KaiCryan/omarchy-lumon)** — a whole-system *Severance* theme for Omarchy.
@@ -49,3 +55,14 @@ sudo ./uninstall.sh          # back to plymouth theme "omarchy"
 sudo plymouth-set-default-theme lumon
 sudo plymouthd ; sudo plymouth --show-splash ; sleep 5 ; sudo plymouth --quit
 ```
+
+---
+
+<div align="center"><sub>
+
+*The work is mysterious and important.*
+
+Part of [Omarchy · Lumon Industries](https://github.com/KaiCryan/omarchy-lumon) · a personal, non-commercial *Severance* tribute · not affiliated with Apple TV+
+
+</sub></div>
+<!-- lumon-voice:footer -->
